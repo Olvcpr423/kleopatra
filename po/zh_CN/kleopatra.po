@@ -1818,7 +1818,7 @@ msgstr "导入的详细结果："
 #: src/commands/importcertificatescommand.cpp:405
 #, kde-format
 msgid "A phone call to the person."
-msgstr "给此人播打电话。"
+msgstr "给此人拨打电话。"
 
 #: src/commands/importcertificatescommand.cpp:406
 #, kde-format
@@ -2107,7 +2107,7 @@ msgstr "签名"
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Encryption"
-msgstr "仅加密"
+msgstr "加密"
 
 #: src/commands/keytocardcommand.cpp:228
 #, kde-format
